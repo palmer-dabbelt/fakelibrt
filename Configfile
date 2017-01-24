@@ -1,0 +1,4 @@
+LANGUAGES += c
+
+LIBRARIES += librt.so
+SOURCES += librt.c
